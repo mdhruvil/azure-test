@@ -8,8 +8,8 @@ import { SessionContextProvider, Session } from "@supabase/auth-helpers-react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Shiksha Finder Marketing",
-  description: "Best Way to reach out to students and parents",
+  title: "LDCE",
+  description: "LD College of engineering",
 };
 
 export default function RootLayout({
